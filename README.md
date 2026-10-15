@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# 💫 About Me:
 ### About Me 👋<br><br>🔭 I’m currently building **SentraSIF** — an AI-powered industrial safety intelligence platform.<br><br>🤝 I’m looking to collaborate on **AI/ML, cybersecurity, full-stack development, and impactful open-source projects.**<br><br>🛠️ I’m looking for help with **building reliable AI systems, scalable architectures, and production-ready applications.**<br><br>🌱 I’m currently learning **system design, applied AI, backend engineering, and cloud technologies.**<br><br>💬 Ask me about **Python, React, FastAPI, databases, cybersecurity, product development, and creative writing.**<br><br>⚡ Fun fact: **I write stories with imagination, build products with logic, and believe technology is most powerful when it solves real problems.**
 
 

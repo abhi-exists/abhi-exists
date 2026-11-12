@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/abhiramssk/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:abhiwork5581@gmail.com"><img src="https://img.shields.io/badge/ABHIWORK5581%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/pvtly.abhi"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Abhiram-work-netizen&style=for-the-badge&color=1f6feb&label=TELEMETRY+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhi-exists&style=for-the-badge&color=1f6feb&label=TELEMETRY+VIEWS" alt="Profile Views" />
 </p>
 
 <p>
@@ -245,20 +245,20 @@ flowchart LR
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Abhiram-work-netizen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=abhi-exists&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhiram-work-netizen&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhi-exists&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhiram-work-netizen&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="58%" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhi-exists&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="58%" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiram-work-netizen&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-exists&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
